@@ -1,0 +1,14 @@
+/home/mahanthab/projects/address_filter_tb/tb/testbench.sv
+-incdir /home/mahanthab/projects/address_filter_tb/test/
+-incdir /home/mahanthab/projects/address_filter_tb/ral/
+-incdir /home/mahanthab/projects/address_filter_tb/rtl
+-incdir /home/mahanthab/projects/address_filter_tb/tb
+-incdir /home/mahanthab/projects/address_filter_tb/env/mem_master/
+-incdir /home/mahanthab/projects/address_filter_tb/env/mem_master/sequences/
+-incdir /home/mahanthab/projects/address_filter_tb/env/
+-incdir /home/mahanthab/projects/address_filter_tb/env/ahb_master/
+-incdir /home/mahanthab/projects/address_filter_tb/env/ahb_master/sequences/
+-incdir /home/mahanthab/projects/address_filter_tb/env/apb_master/
+-incdir /home/mahanthab/projects/address_filter_tb/env/apb_master/sequences/
+-incdir /home/mahanthab/projects/address_filter_tb/env/v_sequences/
+-incdir /home/mahanthab/projects/address_filter_tb/coverage/
